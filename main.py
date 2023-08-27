@@ -16,7 +16,7 @@
 # # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 # the usual way of printing out
-print("hi pycharm, a newcomer here!")
+# print("hi pycharm, a newcomer here!")
 
 # another way of printing out
 
@@ -24,12 +24,12 @@ print("hi pycharm, a newcomer here!")
 # now the def-structure starts making sense
 # it can call functions from elsewhere
 # so that create a bigger and more adjustable structure
-from library import greet
+# from library import greet
 def main():
-    # print("Hi, how do you do?")
-    greet()
+    print("Hi, how do you do?")
+    # greet()
 
-if __name__=='__main__':
+
+if __name__ == '__main__':
     main()
-# don't know why it is this
-# it says it will be useful when running more than one py files
+
