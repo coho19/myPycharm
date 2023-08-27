@@ -26,7 +26,7 @@
 # so that create a bigger and more adjustable structure
 # from library import greet
 def main():
-    print("Hi, how do you do?")
+    print("Hello, where is the library.py?")
     # greet()
 
 
